@@ -7,9 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-
-<h1>Comenzando denuevo el Spring</h1>
-
-<a href="muestraFormulario">ir al formulario</a>
+	Hola ${param.nombreAlumno}. Bienvenido al curso de Spring 
 </body>
 </html>

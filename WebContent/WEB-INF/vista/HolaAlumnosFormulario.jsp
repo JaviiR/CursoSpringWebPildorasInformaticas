@@ -8,8 +8,10 @@
 </head>
 <body>
 
-<h1>Comenzando denuevo el Spring</h1>
 
-<a href="muestraFormulario">ir al formulario</a>
+<form action="procesarFormulario" method="get">
+<input type="text" name="nombreAlumno">
+<input type="submit">
+</form>
 </body>
 </html>

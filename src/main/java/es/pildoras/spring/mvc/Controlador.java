@@ -7,6 +7,6 @@ import org.springframework.web.bind.annotation.RequestMapping;
 public class Controlador {
 	@RequestMapping
 	public String muestraPagina() {
-		return "paginaEjempo";
+		return "paginaEjemplo";
 	 }
 }
